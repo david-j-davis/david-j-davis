@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 * 💬    Ask me about outdoor stuff and homeschooling kids, or dev stuff I guess
 * ⚡    Fun fact: I'm an Eagle Scout
 * ⚡    Unusual fact: I'm a Christian, and a freedom maximalist..........in the tech world.
-* ### Where to find me
+
+### Where to find me
 <p>
 
 <a href="https://www.linkedin.com/in/davidjamesdavis/" target="_blank">
