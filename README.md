@@ -8,11 +8,10 @@ Here are some ideas to get you started:
 
 -->
 
-* 👯    I’m looking to collaborate on a hunting app
-* 🤔    I’m looking for help with being better at my craft
 * ✨    I’m looking to help others be better at their craft
-* 💬    Ask me about outdoor stuff and homeschooling kids, or dev stuff I guess
-* ⚡     Fun fact: I'm an Eagle Scout. I'm also a Christian, and a freedom maximalist.
+* 🤔    I’m looking for help with being better at my craft
+* 💬    Ask me about dev stuff, outdoor stuff, homeschooling kids, or being a Christian.
+* ⚡     Fun fact: I'm an Eagle Scout.
 
 ### Where to find me
 <p>
